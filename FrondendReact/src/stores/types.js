@@ -1,0 +1,5 @@
+
+//User
+export const GETALL_USER_SUCCESS = 'GETALL_USER_SUCCESS';
+export const GETALL_USER_FAILED = 'GETALL_USER_FAILED';
+
