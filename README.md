@@ -1,4 +1,4 @@
-# TestUserApp
+# React-node-user-login
 
 # Follow the below steps to run the application in local:
 
